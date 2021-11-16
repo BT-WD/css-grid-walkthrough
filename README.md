@@ -42,6 +42,6 @@ We've made a template for our columns. What do you think you'd do if you wanted 
 STEP 3
 CHALLENGE
 Build each of the following:
-    A 6x2 grid
-    A 2x6 grid
-    A 3x4 grid where the second row is larger than the others
+    a 6x2 grid
+    a 2x6 grid
+    a 3x4 grid where the second row is larger than the others
