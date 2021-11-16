@@ -27,11 +27,11 @@ STEP 1
 }
 
 /* Predict
-  How many columns will there be?
-  How big will the first column be?
-  How big will the last column be?
-  How big will the middle column be?
-  How many rows will there be?
+ - How many columns will there be?
+ - How big will the first column be?
+ - How big will the last column be?
+ - How big will the middle column be?
+ - How many rows will there be?
 */
 
 
@@ -42,9 +42,9 @@ We've made a template for our columns. What do you think you'd do if you wanted 
 STEP 3
 CHALLENGE
 Build each of the following:
-    a 6x2 grid
-    a 2x6 grid
-    a 3x4 grid where the second row is larger than the others
+   - a 6x2 grid
+   - a 2x6 grid
+   - a 3x4 grid where the second row is larger than the others
 
 STEP 4
 
@@ -65,9 +65,9 @@ The coolest thing we can do is specifically size one cell to act differently fro
 STEP 6
 
 Challenge
-  -Turn the Ruby into a full header. (make it span 3 columns)
-  -Make the JavaScript div into a sidebar. (make it span several rows - 5 works)
-  -Pick a div and make it span across the entire bottom like a footer.
- - Make another div span two rows and two columns.
+  - Turn the Ruby into a full header. (make it span 3 columns)
+  - Make the JavaScript div into a sidebar. (make it span several rows - 5 works)
+  - Pick a div and make it span across the entire bottom like a footer.
+  - Make another div span two rows and two columns.
 
 QUESTIONS?
