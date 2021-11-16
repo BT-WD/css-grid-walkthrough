@@ -12,11 +12,11 @@ STEP 1
 
 /* 
   Answer using comments
-  How many columns are in this "grid"?
-  How many rows?
-  How many items total are there?
-  How wide is the column? (We're going for answers like "100%" or "fullscreen")
-  How tall are the rows? (This is a good opportunity to look at the computed styles)
+  - How many columns are in this "grid"?
+  - How many rows?
+  - How many items total are there?
+  - How wide is the column? (We're going for answers like "100%" or "fullscreen")
+  - How tall are the rows? (This is a good opportunity to look at the computed styles)
   */
 
 /* add the following to the previous code*/
